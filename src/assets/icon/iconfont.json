@@ -1,0 +1,23 @@
+{
+  "id": "2923536",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-wx",
+  "description": "1",
+  "glyphs": [
+    {
+      "icon_id": "1126028",
+      "name": "微信公众号",
+      "font_class": "weixingongzhonghao",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
